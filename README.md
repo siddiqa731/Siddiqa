@@ -2,12 +2,12 @@
 AA&amp;SI Assignment
 #include <stdio.h>
 int main() {
-    double a, b, product;
+    double a, c, product;
     printf("Enter two numbers: ");
-    scanf("%lf %lf", &a, &b);  
+    scanf("%lf %lf", &a, &c);  
  
     // Calculating product
-    product = a * b;
+    product = a * c;
 
     // %.2lf displays number up to 2 decimal point
     printf("Product = %.2lf", product);
