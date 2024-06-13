@@ -1,5 +1,5 @@
 # Siddiqa
-AA&amp;SI Assignment
+AA&amp;SI Assignment 13/06/24
 #include <stdio.h>
 int main() {
     double b, c, product;
